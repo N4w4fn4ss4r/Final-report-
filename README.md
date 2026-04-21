@@ -1,7 +1,6 @@
 # AI 100 Final Project CIFAR-10 CNN Classifier with Bug Case Analysis
 
 **Course:** AI 100  
-**Deadline:** April 24, 2026  
 **Group Members:** Nawaf Alqahtani · Nasser Almalki · Mohammed Ajwah · Yazeed Alshehri · Maria Almansour
 
 ---
