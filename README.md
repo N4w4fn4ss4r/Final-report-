@@ -1,4 +1,4 @@
-# AI 100 Final Project — CIFAR-10 CNN Classifier with Bug Case Analysis
+# AI 100 Final Project CIFAR-10 CNN Classifier with Bug Case Analysis
 
 **Course:** AI 100  
 **Deadline:** April 24, 2026  
