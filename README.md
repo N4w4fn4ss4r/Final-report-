@@ -47,7 +47,3 @@ python train.py
 | 8 | Yazeed Alshehri | DataLoader shuffle=True → shuffle=False | Bad |
 | 9 | Maria Almansour | ReLU → Sigmoid activations | Bad |
 | 10 | Maria Almansour | Learning rate 0.001 → 10.0 | Bad |
-
-## Submission
-
-Submitted via Canvas. GitHub URL included in submission.
